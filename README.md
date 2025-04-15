@@ -95,7 +95,7 @@ Open your browser and navigae to:
 http://127.0.0.1:786
 ```
 
-Begin interacting with your AI-powered system assitant!
+Begin interacting with your AI-powered system assitant!
 
 ---
 
@@ -117,4 +117,3 @@ Currently, virtual environments are not supported. If you choose to use one, ens
 ---
 
 Feel free to explore and enhance the MCP Agent to suit your needs. Happy coding!
-````
