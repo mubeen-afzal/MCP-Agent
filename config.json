@@ -1,0 +1,4 @@
+{
+    "server_path": "ADD_COMPLETE_PATH_OF_MCP_SERVER_FILE_HERE",
+    "ai_model": "ENTER_THE_NAME_OF_OLLAMA_MODEL_HERE"
+}

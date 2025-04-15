@@ -1,0 +1,9 @@
+python-dotenv
+mcp
+git+https://github.com/weatherapicom/python.git#egg=weatherapipython
+weatherapi
+gradio
+langgraph
+langchain
+langchain-mcp-adapters
+langchain-ollama
